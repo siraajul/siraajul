@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsirajul" target="blank"><img src="https://img.shields.io/twitter/follow/itsirajul?logo=twitter&style=for-the-badge" alt="itsirajul" /></a> </p>
 
-<a href="https://app.daily.dev/itsirajul"><img align="right" src="https://api.daily.dev/devcards/9fea919b0a6046429f47d738b71fb567.png?r=v0s" width="350" alt="Sirajul Islam's Dev Card"/></a>
+<a href="https://app.daily.dev/siraajul"><img align="right" src="https://api.daily.dev/devcards/9fea919b0a6046429f47d738b71fb567.png?r=v0s" width="350" alt="Sirajul Islam's Dev Card"/></a>
 
 
 - 🔭 I’m currently working on **Android Development**
