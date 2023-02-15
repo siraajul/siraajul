@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siraajul" alt="siraajul" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/itsirajul" target="blank"><img src="https://img.shields.io/twitter/follow/itsirajul?logo=twitter&style=for-the-badge" alt="itsirajul" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iamSiraajul" target="blank"><img src="https://img.shields.io/twitter/follow/iamSiraajul?logo=twitter&style=for-the-badge" alt="iamSiraajul" /></a> </p>
 
 <a href="https://app.daily.dev/siraajul"><img align="right" src="https://api.daily.dev/devcards/9fea919b0a6046429f47d738b71fb567.png?r=v0s" width="350" alt="Sirajul Islam's Dev Card"/></a>
 
