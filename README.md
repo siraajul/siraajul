@@ -83,7 +83,7 @@
 ### Contribution
 <div align="center">
 
-<img algin="left" src="https://github-readme-streak-stats.herokuapp.com/?user=itsirajul&theme=white" width="45%" alt="Sirajul's github stats"/>
+<img algin="left" src="https://github-readme-streak-stats.herokuapp.com/?user=siraajul&theme=white" width="45%" alt="Sirajul's github stats"/>
 
 </a>
 <a href="https://github.com/siraajul">
