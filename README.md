@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sirajul Islam</h1>
-<h3 align="center">Java | Android | WordPress | DevOps | QA</h3>
+<h3 align="center">Java | Android | Flutter | DevOps | QA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siraajul&label=Profile%20views&color=0e75b6&style=flat" alt="siraajul" /> </p>
 
@@ -10,15 +10,15 @@
 <a href="https://app.daily.dev/siraajul"><img align="right" src="https://api.daily.dev/devcards/9fea919b0a6046429f47d738b71fb567.png?r=v0s" width="350" alt="Sirajul Islam's Dev Card"/></a>
 
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **Cross Platform Development**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java & Dart**
 
 - 👯 I’m looking to collaborate on **Problem Solving**
 
-- 🤝 I’m looking for help in **learning DSA(Java)**
+- 🤝 I’m looking for help in **Learning DSA(Java)**
 
-- 💬 Ask me about **Java, QA, App Development(Android)**
+- 💬 Ask me about **Java, Flutter, QA**
 
 - 📫 How to reach me **itsirajul@gmail.com**
 
