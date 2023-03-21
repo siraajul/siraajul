@@ -97,7 +97,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siraajul&theme=white&hide_langs_below=1" />
 </a>
 <a href="https://github.com/siraajul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Sirajul&theme=white&hide_langs_below=1" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Sirajul&theme=white&hide_langs_below=1" />
 </a>
 </div>
   <br/>
