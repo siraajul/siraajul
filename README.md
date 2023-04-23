@@ -123,5 +123,10 @@
 <!--<a href="https://github.com/itsirajul"><img alt="Sirajul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsirajul&custom_title=%20Sirajul's%20Contribution%20Graph&theme=green" /></a>-->
   <br/>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sirajul"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sirajul" /></a><a href="https://ko-fi.com/sirajul"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="itsirajul" /></a></p><br><br>
+<p>
+<a href="https://www.buymeacoffee.com/sirajul"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sirajul" /></a>
+<a href="https://ko-fi.com/sirajul"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="itsirajul" /></a>
+</p>
+<br>
+<br>
 
