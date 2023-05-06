@@ -120,7 +120,7 @@
 </a>-->
 </div>
   <br/>
-<!--<a href="https://github.com/itsirajul"><img alt="Sirajul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsirajul&custom_title=%20Sirajul's%20Contribution%20Graph&theme=green" /></a>-->
+<a href="https://github.com/itsirajul"><img alt="Sirajul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsirajul&custom_title=%20Sirajul's%20Contribution%20Graph&theme=green" /></a>
   <br/>
 <h3 align="left">Support:</h3>
 <p>
