@@ -2,6 +2,7 @@
 <h3 align="center">Flutter | Java | SQA </h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=siraajul&label=Profile%20views&color=0e75b6&style=flat" alt="siraajul" /> </p>
+[![wakatime](https://wakatime.com/badge/user/1be6b642-1a9e-4f43-8350-58bc10bf642c.svg)](https://wakatime.com/@sirajul)
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siraajul" alt="siraajul" /></a> </p>-->
 
