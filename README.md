@@ -115,9 +115,9 @@
 <a href="https://github.com/siraajul">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siraajul&theme=white&hide_langs_below=1" />
 </a>
-<!--<a href="https://github.com/siraajul">
+<a href="https://github.com/siraajul">
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@sirajul&theme=white&hide_langs_below=1" />
-</a>-->
+</a>
 </div>
   <br/>
 <!--<a href="https://github.com/itsirajul"><img alt="Sirajul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsirajul&custom_title=%20Sirajul's%20Contribution%20Graph&theme=green" /></a>-->
