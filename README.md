@@ -2,9 +2,9 @@
 <h3 align="center">Flutter | Java | SQA </h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=siraajul&label=Profile%20views&color=0e75b6&style=flat" alt="siraajul" /> </p>
-<p align="right"><img src="https://wakatime.com/badge/user/e1175194-8cfe-478b-bb21-f1b614745b66.svg)(https://wakatime.com/@e1175194-8cfe-478b-bb21-f1b614745b66")
+<a href="https://wakatime.com/@e1175194-8cfe-478b-bb21-f1b614745b66"><img src="https://wakatime.com/badge/user/e1175194-8cfe-478b-bb21-f1b614745b66.svg" alt="Total time coded since Jan 13 2019" /></a>
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siraajul" alt="siraajul" /></a> </p>-->
+
 
 <p align="left"> <a href="https://twitter.com/iamSiraajul" target="blank"><img src="https://img.shields.io/twitter/follow/iamSiraajul?logo=twitter&style=for-the-badge" alt="iamSiraajul" /></a> </p>
 
@@ -116,12 +116,7 @@
 <a href="https://github.com/siraajul">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siraajul&theme=white&hide_langs_below=1" />
 </a>
-<!--<a href="https://github.com/siraajul">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@e1175194-8cfe-478b-bb21-f1b614745b66&theme=white&hide_langs_below=1" />
-</a>-->
-</div>
-  <br/>
-<a href="https://github.com/itsirajul"><img alt="Sirajul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=siraajul&custom_title=%20Sirajul's%20Contribution%20Graph&theme=green" /></a>
+
   <br/>
 <h3 align="left">Support:</h3>
 <p>
