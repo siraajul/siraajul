@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help in **Learning DSA(Java)**
 
-- 💬 Ask me about **Flutter, Dart, Java, QA**
+- 💬 Ask me about **Flutter, Dart, Java, SwiftUI**
 
 - 📫 How to reach me **itsirajul@gmail.com**
 
