@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sirajul Islam</h1>
-<h3 align="center">Mobile | Web | DevOps</h3>
+<h3 align="center">Mobile | BackEnd</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=siraajul&label=Profile%20views&color=0e75b6&style=flat" alt="siraajul" /> </p>
 <p align="right"><a href="https://wakatime.com/@e1175194-8cfe-478b-bb21-f1b614745b66"><img src="https://wakatime.com/badge/user/e1175194-8cfe-478b-bb21-f1b614745b66.svg" alt="Total time coded since Jan 13 2019" /></a></p>
