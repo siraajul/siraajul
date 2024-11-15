@@ -100,27 +100,6 @@
 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> -->
 
-# 📊 GitHub Stats:
-<br>
-<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"> Stats <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"></h2>
-<br>
-
-<table align="center" border="1">
-  <tr>
-       <td rowspan = "3"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sirajul\&layout=compact" alt="walkatatime"/></td>
-
-<td><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=siraajul&show_icons=true&count_private=true&locale=en&theme=radical&hide_border=true" alt="siraajul" /></td> 
-  </tr>
- <tr>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siraajul&count_private=true&theme=radical&hide_border=true" alt="siraajul"/></td>
- </tr>
-  <tr>
-       <td ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siraajul&show_icons=true&count_private=true&locale=en&theme=radical&hide_border=true&layout=pie" alt="rakibkhanofficial"/></td>
-
-  </tr>
-</table> 
-
-
   <br/>
 <h3 align="left">Support:</h3>
 <p>
@@ -129,4 +108,91 @@
 </p>
 <br>
 <br>
+<br>
+<br>
+
+<!-- GRS (Light Mode) -->
+<a href="https://github.com/siraajul#gh-light-mode-only">
+  <table cellspacing="0" cellpadding="0">
+    <tr>
+      <td style="border: 0;">
+          <img
+            src="https://github-readme-stats-steel-omega.vercel.app/api?username=siraajul&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only"
+            alt="My Github stats"
+            height="370"
+          />
+      </td>
+      <td style="border: 0;">
+          <img
+            src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=siraajul&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos#gh-light-mode-only"
+            alt="My Language stats"
+            width="280"
+          />
+      </td>
+    </tr>
+  </table>
+</a>
+
+<!-- GRS (Dark Mode) -->
+<a href="https://github.com/siraajul#gh-dark-mode-only">
+  <table cellspacing="0" cellpadding="0">
+    <tr>
+      <td style="border: 0;">
+        <img
+          src="https://github-readme-stats-steel-omega.vercel.app/api?username=siraajul&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
+          alt="My Github stats"
+          height="370"
+        />
+      </td>
+      <td style="border: 0;">
+        <img
+          src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=siraajul&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos#gh-dark-mode-only"
+          alt="My Language stats"
+          width="280"
+        />
+      </td>
+    </tr>
+  </table>
+</a>
+
+<!-- Streak stats (Light mode) -->
+<div align="center">
+  <a href="https://github.com/siraajul#gh-light-mode-only">
+    <img
+       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=siraajul&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
+       alt="My GitHub streak stats"
+     />
+  </a>
+</div>
+
+
+<!-- Streak stats (Dark mode) -->
+<div align="center">
+  <a href="https://github.com/siraajul#gh-dark-mode-only">
+    <img
+       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=siraajul&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
+       alt="My GitHub streak stats"
+     />
+  </a>
+</div>
+
+<!-- WakaTime stats (Light mode) -->
+<div align="center">
+  <a href="https://github.com/siraajul#gh-light-mode-only">
+    <img
+        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=sirajul&layout=compact&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29"
+        alt="My Wakatime stats"
+      />
+  </a>
+</div>
+
+<!-- WakaTime stats (Dark mode) -->
+<div align="center">
+  <a href="https://github.com/siraajul#gh-dark-mode-only">
+    <img
+        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=sirajul&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29"
+        alt="My Wakatime stats"
+      />
+  </a>
+</div>
 
