@@ -100,22 +100,26 @@
 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> -->
 
-### Contribution
-<div align="center">
+# 📊 GitHub Stats:
+<br>
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"> Stats <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"></h2>
+<br>
 
-<img algin="left" src="https://github-readme-streak-stats.herokuapp.com/?user=siraajul&theme=white" width="45%" alt="Sirajul's github stats"/>
+<table align="center" border="1">
+  <tr>
+       <td rowspan = "3"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sirajul\&layout=compact" alt="walkatatime"/></td>
 
-</a>
-<a href="https://github.com/siraajul">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=siraajul&show_icons=true&theme=white&line_height=24" width="45%" alt="Sirajul's github stats"/>
-</a>
-<div align="left">
+<td><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=siraajul&show_icons=true&count_private=true&locale=en&theme=radical&hide_border=true" alt="siraajul" /></td> 
+  </tr>
+ <tr>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siraajul&count_private=true&theme=radical&hide_border=true" alt="siraajul"/></td>
+ </tr>
+  <tr>
+       <td ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siraajul&show_icons=true&count_private=true&locale=en&theme=radical&hide_border=true&layout=pie" alt="rakibkhanofficial"/></td>
 
-### Language
+  </tr>
+</table> 
 
-<a href="https://github.com/siraajul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siraajul&theme=white&hide_langs_below=1" />
-</a>
 
   <br/>
 <h3 align="left">Support:</h3>
