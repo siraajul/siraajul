@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👯 I’m looking to collaborate on **Problem Solving**
+- 👯 I’m looking to collaborate on **FullStack Project**
 
-- 🤝 I’m looking for help in **Learning DSA(Java)**
+- 🤝 I’m looking for help in **Learning Backend**
 
 - 💬 Ask me about **Flutter, Dart, Java, SwiftUI**
 
-- 📫 How to reach me **itsirajul@gmail.com**
+- 📫 How to reach me **https://siraajul.vercel.app/**
 
 - ⚡ Fun fact **I spend almost 3/4 hours Reading Tech Article everyday.**
 
