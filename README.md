@@ -11,9 +11,9 @@
 <a href="https://app.daily.dev/siraajul"><img align="right" src="https://api.daily.dev/devcards/v2/Vh7zzMDnp1.png?type=default&r=m1n" width="350" alt="Sirajul Islam's Dev Card"/></a>
 
 
-- 🔭 I’m currently working on **ReactJS & Flutter**
+- 🔭 I’m currently working on **React.js & Flutter**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **FullStack Project**
 
