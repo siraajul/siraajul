@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **FullStack Project**
 
-- 🤝 I’m looking for help in **Learning Backend**
+- 🤝 I’m looking for help in **NEXT.JS**
 
 - 💬 Ask me about **Flutter, Dart, Java, SwiftUI**
 
