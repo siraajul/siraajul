@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **FullStack Project**
+- 👯 I’m looking to collaborate on **FullStack Project(Mobile & Web)**
 
 - 🤝 I’m looking for help in **NEXT.JS**
 
