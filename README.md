@@ -17,8 +17,6 @@
 
 - 💬 Ask me about **Web Dev & Mobile Dev**
 
-- 📫 How to reach me **https://siraajul.vercel.app/**
-
 - ⚡ Fun fact: **Love solving coding challenges!**
 
 <h3 align="left">Languages and Tools:</h3>
