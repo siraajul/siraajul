@@ -4,10 +4,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=siraajul&label=Profile%20views&color=0e75b6&style=flat" alt="siraajul" /> </p>
 <p align="right"><a href="https://wakatime.com/@e1175194-8cfe-478b-bb21-f1b614745b66"><img src="https://wakatime.com/badge/user/e1175194-8cfe-478b-bb21-f1b614745b66.svg" alt="Total time coded since Jan 13 2019" /></a></p>
 
-
-
-<p align="left"> <a href="https://twitter.com/iamSiraajul" target="blank"><img src="https://img.shields.io/twitter/follow/iamSiraajul?logo=twitter&style=for-the-badge" alt="iamSiraajul" /></a> </p>
-
 <a href="https://app.daily.dev/siraajul"><img align="right" src="https://api.daily.dev/devcards/v2/Vh7zzMDnp1.png?type=default&r=m1n" width="350" alt="Sirajul Islam's Dev Card"/></a>
 
 
