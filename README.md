@@ -7,19 +7,19 @@
 <a href="https://app.daily.dev/siraajul"><img align="right" src="https://api.daily.dev/devcards/v2/Vh7zzMDnp1.png?type=default&r=m1n" width="350" alt="Sirajul Islam's Dev Card"/></a>
 
 
-- 🔭 I’m currently working on **React.js & Flutter**
+- 🔭 Working on **React.js & Flutter**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 Learning **Next.js, Tailwind CSS, and JavaScript**
 
-- 👯 I’m looking to collaborate on **FullStack Project(Mobile & Web)**
+- 👯 Open to collaborating on **Web/Mobile projects and Open Source**
 
-- 🤝 I’m looking for help in **NEXT.JS**
+- 🤝 Need help with **React & Flutter performance optimization**
 
-- 💬 Ask me about **Flutter, Dart, Java, SwiftUI**
+- 💬 Ask me about **Web Dev & Mobile Dev**
 
 - 📫 How to reach me **https://siraajul.vercel.app/**
 
-- ⚡ Fun fact **I spend almost 3/4 hours Reading Tech Article everyday.**
+- ⚡ Fun fact: **Love solving coding challenges!**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
