@@ -7,17 +7,17 @@
 <a href="https://app.daily.dev/siraajul"><img align="right" src="https://api.daily.dev/devcards/v2/Vh7zzMDnp1.png?type=default&r=m1n" width="350" alt="Sirajul Islam's Dev Card"/></a>
 
 
-- 🔭 Working on **Flutter**
+- 🔭 Working on **Automation**
 
-- 🌱 Learning **Design Pattern, BLoC, and Go**
+- 🌱 Learning **TestNG, Selenium, Playwright, and Jenkins**
 
 - 👯 Open to collaborating on **Mobile projects and Open Source**
 
-- 🤝 Need help with **Flutter performance optimization**
+- 🤝 Need help with **Automation & Testing**
 
 - 💬 Ask me about **Mobile Dev**
 
-- ⚡ Fun fact: **Love solving coding challenges!**
+- ⚡ Fun fact: **Love solving  challenges!**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
