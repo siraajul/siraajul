@@ -7,7 +7,7 @@
 <a href="https://app.daily.dev/siraajul"><img align="right" src="https://api.daily.dev/devcards/v2/Vh7zzMDnp1.png?type=default&r=m1n" width="350" alt="Sirajul Islam's Dev Card"/></a>
 
 
-- 🔭 Working on **Automation**
+- 🔭 Working on **App Development(Flutter) & Automation**
 
 - 🌱 Learning **TestNG, Selenium, Playwright, and Jenkins**
 
