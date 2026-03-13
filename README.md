@@ -7,17 +7,17 @@
 <a href="https://app.daily.dev/siraajul"><img align="right" src="https://api.daily.dev/devcards/v2/Vh7zzMDnp1.png?type=default&r=m1n" width="350" alt="Sirajul Islam's Dev Card"/></a>
 
 
-- 🔭 Building automation frameworks with Selenium, Playwright & Java
+- 🔭 Building **Automation Frameworks** with **Selenium**, **Playwright** & **Java**
 
-- 🌱 Going deep on POM design patterns, CI/CD pipelines & performance testing with k6
+- 🌱 Going deep on **POM design patterns**, **CI/CD pipelines** & **Performance Testing** with **K6**
 
-- 👯 Open to collaborating on open-source QA tools and test automation projects
+- 👯 Open to collaborating on **Open-Source QA Tools** and **Test Automation** projects
 
-- 💬 Ask me about manual testing, API validation, bug reporting & automation strategy
+- 💬 Ask me about **Manual testing**, **API validation**, **Bug Reporting** & **Automation Strategy**
 
-- 🎯 Focused on building production-ready QA automation systems
+- 🎯 Focused on building **Production-Ready QA Automation Systems**
 
-- ⚡ Fun fact: I find bugs in apps I use daily — and actually document them properly
+- ⚡ Fun fact: I find **Bugs** in apps I use daily — and actually **Document Them Properly**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
