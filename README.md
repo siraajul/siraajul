@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sirajul Islam</h1>
-<h3 align="center">Software Development Engineer in Test (SDET) | CI/CD & Automation Specialist</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2d77dc&center=true&vCenter=true&width=600&height=50&lines=Software+Development+Engineer+in+Test+(SDET);CI%2FCD+%26+Automation+Specialist;Architecting+Zero-Flake+Test+Pipelines;Scaling+Mobile+%26+Web+Automation" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <em>Dedicated to engineering robust automation frameworks that accelerate release cycles and guarantee software reliability at scale.</em>
