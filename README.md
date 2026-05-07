@@ -1,23 +1,24 @@
 <h1 align="center">Hi 👋, I'm Sirajul Islam</h1>
-<h3 align="center">Testing | Automation</h3>
+<h3 align="center">Software Development Engineer in Test (SDET) | CI/CD & Automation Specialist</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=siraajul&label=Profile%20views&color=0e75b6&style=flat" alt="siraajul" /> </p>
-<p align="right"><a href="https://wakatime.com/@e1175194-8cfe-478b-bb21-f1b614745b66"><img src="https://wakatime.com/badge/user/e1175194-8cfe-478b-bb21-f1b614745b66.svg" alt="Total time coded since Jan 13 2019" /></a></p>
+<p align="center">
+  <em>Dedicated to engineering robust automation frameworks that accelerate release cycles and guarantee software reliability at scale.</em>
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=siraajul&label=Profile%20views&color=0e75b6&style=flat" alt="siraajul" />
+  <a href="https://wakatime.com/@e1175194-8cfe-478b-bb21-f1b614745b66"><img src="https://wakatime.com/badge/user/e1175194-8cfe-478b-bb21-f1b614745b66.svg" alt="Total time coded" /></a>
+</p>
 
 <a href="https://app.daily.dev/siraajul"><img align="right" src="https://api.daily.dev/devcards/v2/Vh7zzMDnp1.png?type=default&r=m1n" width="350" alt="Sirajul Islam's Dev Card"/></a>
 
+### 🚀 Engineering Philosophy & Impact
 
-- 🔭 Building **Automation Frameworks** with **Selenium**, **Playwright** & **Java**
-
-- 🌱 Going deep on **POM design patterns**, **CI/CD pipelines** & **Performance Testing** with **K6**
-
-- 👯 Open to collaborating on **Open-Source QA Tools** and **Test Automation** projects
-
-- 💬 Ask me about **Manual testing**, **API validation**, **Bug Reporting** & **Automation Strategy**
-
-- 🎯 Focused on building **Production-Ready QA Automation Systems**
-
-- ⚡ Fun fact: I find **Bugs** in apps I use daily — and actually **Document Them Properly**
+- 🔭 **Modern Automation:** Building fast, reliable, and scalable test frameworks from scratch using modern tools like **Playwright**, **Cypress**, and **Selenium** in Java/JavaScript environments.
+- ⚙️ **CI/CD Integration:** Integrating automated test suites directly into **GitHub Actions** and **Jenkins** pipelines to catch regressions before they hit production.
+- 📊 **API & Backend Validation:** Engineering comprehensive API test coverage using **Postman** and validating backend performance with **k6**.
+- 📱 **Mobile Automation:** Expanding test coverage to mobile platforms utilizing **Appium** and **Maestro**.
+- 💡 **Continuous Improvement:** Passionate about reducing test execution time, eliminating flaky tests, and implementing clean **POM (Page Object Model)** design patterns.
 
 <h3 align="left">Languages and Tools:</h3>
 
