@@ -13,12 +13,24 @@
 <a href="https://app.daily.dev/siraajul"><img align="right" src="https://api.daily.dev/devcards/v2/Vh7zzMDnp1.png?type=default&r=m1n" width="350" alt="Sirajul Islam's Dev Card"/></a>
 
 ### 🚀 Engineering Philosophy & Impact
+<br>
 
 - 🔭 **Modern Automation:** Building fast, reliable, and scalable test frameworks from scratch using modern tools like **Playwright**, **Cypress**, and **Selenium** in Java/JavaScript environments.
+<br>
+
 - ⚙️ **CI/CD Integration:** Integrating automated test suites directly into **GitHub Actions** and **Jenkins** pipelines to catch regressions before they hit production.
+<br>
+
 - 📊 **API & Backend Validation:** Engineering comprehensive API test coverage using **Postman** and validating backend performance with **k6**.
+<br>
+
 - 📱 **Mobile Automation:** Expanding test coverage to mobile platforms utilizing **Appium** and **Maestro**.
+<br>
+
 - 💡 **Continuous Improvement:** Passionate about reducing test execution time, eliminating flaky tests, and implementing clean **POM (Page Object Model)** design patterns.
+
+<br clear="both">
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
