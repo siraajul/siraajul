@@ -28,7 +28,13 @@
 ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white) ![Playwright](https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white) ![Appium](https://img.shields.io/badge/appium-%23662A9C.svg?style=for-the-badge&logo=appium&logoColor=white) ![WebDriverIO](https://img.shields.io/badge/webdriverio-%23EA5906.svg?style=for-the-badge&logo=webdriverio&logoColor=white) ![Cucumber](https://img.shields.io/badge/cucumber-%2323D96C.svg?style=for-the-badge&logo=cucumber&logoColor=white) ![Mocha](https://img.shields.io/badge/mocha-%238D6748.svg?style=for-the-badge&logo=mocha&logoColor=white) ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 
 **Management & Methodology**<br>
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Linear](https://img.shields.io/badge/linear-%235E6AD2.svg?style=for-the-badge&logo=linear&logoColor=white) ![ClickUp](https://img.shields.io/badge/clickup-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white) ![TestRail](https://img.shields.io/badge/TestRail-%232090FF.svg?style=for-the-badge) ![Black Box Testing](https://img.shields.io/badge/Black_Box_Testing-111111?style=for-the-badge) ![White Box Testing](https://img.shields.io/badge/White_Box_Testing-DDDDDD?style=for-the-badge&logoColor=black) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Linear](https://img.shields.io/badge/linear-%235E6AD2.svg?style=for-the-badge&logo=linear&logoColor=white) ![ClickUp](https://img.shields.io/badge/clickup-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white) ![TestRail](https://img.shields.io/badge/TestRail-%232090FF.svg?style=for-the-badge)
+
+**Testing**<br>
+![Black Box Testing](https://img.shields.io/badge/Black_Box_Testing-111111?style=for-the-badge) ![White Box Testing](https://img.shields.io/badge/White_Box_Testing-DDDDDD?style=for-the-badge&logoColor=black)
+
+**Security**<br>
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge)
 
 **API & Performance Testing**<br>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-%23D22128.svg?style=for-the-badge&logo=apachejmeter&logoColor=white) ![k6](https://img.shields.io/badge/k6-%237D64FF.svg?style=for-the-badge&logo=k6&logoColor=white)
