@@ -1,175 +1,134 @@
-<h1 align="center">Hi 👋, I'm Sirajul Islam</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2d77dc&center=true&vCenter=true&width=600&height=50&lines=Software+Development+Engineer+in+Test+(SDET);CI%2FCD+%26+Automation+Specialist;Architecting+Zero-Flake+Test+Pipelines;Scaling+Mobile+%26+Web+Automation" alt="Typing SVG" />
+  <img src="assets/profile-hero.svg" alt="Sirajul Islam — SQA Engineer and Product Builder. Thoughtful products. Tested workflows." width="100%" />
 </p>
 
 <p align="center">
-  <em>Dedicated to engineering robust automation frameworks that accelerate release cycles and guarantee software reliability at scale.</em>
+  <a href="https://siraajul.com"><strong>Portfolio ↗</strong></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/siraajul/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/GeekSSort">GeekSSort</a> &nbsp;·&nbsp;
+  <a href="#selected-work">Explore my work ↓</a>
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=siraajul&label=Profile%20views&color=0e75b6&style=flat" alt="siraajul" />
-  <a href="https://wakatime.com/@e1175194-8cfe-478b-bb21-f1b614745b66"><img src="https://wakatime.com/badge/user/e1175194-8cfe-478b-bb21-f1b614745b66.svg" alt="Total time coded" /></a>
-</p>
+I'm an **SQA engineer and product builder based in Dhaka, Bangladesh**. My work spans browser automation, API and performance testing, and web, mobile, and desktop applications.
 
-<a href="https://app.daily.dev/siraajul"><img align="right" src="https://api.daily.dev/devcards/v2/Vh7zzMDnp1.png?type=default&r=m1n" width="350" alt="Sirajul Islam's Dev Card"/></a>
+I care about the details that decide whether software feels dependable: clear interfaces, useful error messages, correct calculations, permissions, and what happens when a connection drops. I enjoy building the product and investigating how it behaves under real use.
 
-### 🚀 Engineering Philosophy & Impact
-<br>
+## Selected work
 
-- 🔭 **Modern Automation:** Building fast, reliable, and scalable test frameworks from scratch using modern tools like **Playwright**, **Cypress**, and **Selenium** in Java/JavaScript environments.
-<br>
+A selection of public projects across quality engineering and product development. The repositories include their setup, scope, and supporting material.
 
-- ⚙️ **CI/CD Integration:** Integrating automated test suites directly into **GitHub Actions** and **Jenkins** pipelines to catch regressions before they hit production.
-<br>
+<table>
+  <tr>
+    <th width="50%" align="left">Quality engineering</th>
+    <th width="50%" align="left">Product building</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/siraajul/nopCom_Automation">nopCommerce Automation ↗</a></h3>
+      <p>Browser tests for registration, login, product search, carts, and checkout. Page objects, reusable fixtures, and screenshots, traces, and video for investigating failures.</p>
+      <p><code>Playwright</code> <code>TypeScript</code> <code>E2E</code></p>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/siraajul/ledger">Ledger ↗</a></h3>
+      <p>An expense tracker with a distinct visual identity, BLoC state management, Firebase sync, and offline support. Built around quick entry and a clear view of spending.</p>
+      <p><code>Flutter</code> <code>Dart</code> <code>Firebase</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/siraajul/testfolio">Testfolio ↗</a></h3>
+      <p>A manual QA portfolio covering test planning, boundary analysis, case design, execution records, and structured bug reports.</p>
+      <p><code>Test design</code> <code>BVA / EP</code> <code>Manual QA</code></p>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/siraajul/daur">Daur · দৌড় ↗</a></h3>
+      <p>A fitness and meal-planning app built around Bangladeshi routines: local foods, daily tracking, training, and a focused onboarding journey.</p>
+      <p><code>Flutter</code> <code>Firebase</code> <code>Product UX</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/siraajul/K6Mastery">k6 Mastery ↗</a></h3>
+      <p>API performance tests with authenticated flows, staged load, endpoint-specific thresholds, validation checks, and HTML reports.</p>
+      <p><code>k6</code> <code>JavaScript</code> <code>API testing</code></p>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/siraajul/jobab">Jobab · জবাব ↗</a></h3>
+      <p>An AI sales-agent prototype and merchant inbox for Bangladeshi social commerce, with Bangla, Banglish, and English conversations.</p>
+      <p><code>Next.js</code> <code>NestJS</code> <code>PostgreSQL</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/siraajul/testkart">TestKart ↗</a></h3>
+      <p>A BDD automation framework for e-commerce search, pagination, and data extraction, using Cucumber scenarios and a Page Object Model.</p>
+      <p><code>Playwright</code> <code>Cucumber</code> <code>JavaScript</code></p>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/siraajul/MeFolio">MeFolio ↗</a></h3>
+      <p>The source behind my personal portfolio: a Next.js site with Sanity-managed content, responsive layouts, and motion.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Sanity</code></p>
+    </td>
+  </tr>
+</table>
 
-- 📊 **API & Backend Validation:** Engineering comprehensive API test coverage using **Postman** and validating backend performance with **k6**.
-<br>
+**Also worth a look:** [Postman API testing](https://github.com/siraajul/TheCatAPI) · [Jest unit tests](https://github.com/siraajul/jestwise) · [Testing scenarios](https://github.com/siraajul/scenario-log) · [My macOS toolkit](https://github.com/siraajul/toolkit)
 
-- 📱 **Mobile Automation:** Expanding test coverage to mobile platforms utilizing **Appium** and **Maestro**.
-<br>
+## A glimpse of the work
 
-- 💡 **Continuous Improvement:** Passionate about reducing test execution time, eliminating flaky tests, and implementing clean **POM (Page Object Model)** design patterns.
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/siraajul/nopCom_Automation"><img src="assets/automation-preview.png" width="100%" alt="A documented nopCommerce Playwright test run, displayed in the Pulse report dashboard" /></a>
+      <p><strong>Automation with evidence</strong><br /><sub>A documented Playwright run and its report. Historical results and setup are in the project.</sub></p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/siraajul/ledger"><img src="assets/ledger-preview.png" width="100%" alt="Ledger expense-tracker home screen with sample transactions" /></a>
+      <p><strong>Ledger</strong><br /><sub>Expense-tracker app screenshot.</sub></p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/siraajul/daur"><img src="assets/daur-preview.png" width="100%" alt="Daur daily fitness and meal-tracking interface design preview" /></a>
+      <p><strong>Daur</strong><br /><sub>Daily tracking design preview.</sub></p>
+    </td>
+  </tr>
+</table>
 
-<br clear="both">
-<br>
+## How I approach the work
 
-<h3 align="left">Languages and Tools:</h3>
+- **Start with the journey.** Understand what the person is trying to finish before choosing a tool or designing a test.
+- **Investigate failures.** Reproduce the problem, trace the state and data, and keep evidence that explains the cause.
+- **Keep automation readable.** Use clear scenarios, reusable fixtures, and reports that help someone debug the next failure.
+- **Review the actual experience.** Check keyboard use, navigation, viewport behavior, empty states, and recovery paths in the app.
 
-**Languages**<br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+## What I work with
 
-**Web Automation**<br>
-![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white) ![Playwright](https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white) ![WebDriverIO](https://img.shields.io/badge/webdriverio-%23EA5906.svg?style=for-the-badge&logo=webdriverio&logoColor=white)
+| Area | Tools and technologies |
+| --- | --- |
+| **Quality engineering** | Playwright · Cypress · Selenium · Postman · k6 · Jest · Cucumber |
+| **Web and backend** | TypeScript · JavaScript · React · Next.js · Astro · Node.js · NestJS |
+| **Mobile and desktop** | Flutter · Dart · SwiftUI · Electron |
+| **Data and delivery** | PostgreSQL · SQLite · Firebase · Docker · GitHub Actions |
 
-**Mobile Automation**<br>
-![Appium](https://img.shields.io/badge/appium-%23662A9C.svg?style=for-the-badge&logo=appium&logoColor=white) ![Maestro](https://img.shields.io/badge/Maestro-111111?style=for-the-badge)
+## On my desk
 
-**BDD Frameworks**<br>
-![Cucumber](https://img.shields.io/badge/cucumber-%2323D96C.svg?style=for-the-badge&logo=cucumber&logoColor=white)
+- Desktop POS and back-office workflows, with attention to offline behavior, printing, keyboard checkout, and onboarding.
+- Product UX that helps people finish everyday tasks quickly.
+- Sharpening my system-design and testing judgment through practical projects and failure analysis.
 
-**Unit Testing**<br>
-![Mocha](https://img.shields.io/badge/mocha-%238D6748.svg?style=for-the-badge&logo=mocha&logoColor=white) ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+## Let's connect
 
-**Management & Methodology**<br>
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Linear](https://img.shields.io/badge/linear-%235E6AD2.svg?style=for-the-badge&logo=linear&logoColor=white) ![ClickUp](https://img.shields.io/badge/clickup-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white) ![TestRail](https://img.shields.io/badge/TestRail-%232090FF.svg?style=for-the-badge)
+I'm happy to talk about **software quality, test automation, product UX, and building useful apps**.
 
-**Testing**<br>
-![Black Box Testing](https://img.shields.io/badge/Black_Box_Testing-111111?style=for-the-badge) ![White Box Testing](https://img.shields.io/badge/White_Box_Testing-DDDDDD?style=for-the-badge&logoColor=black)
+**[siraajul.com](https://siraajul.com)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/siraajul/)** &nbsp;·&nbsp; **[GeekSSort](https://github.com/GeekSSort)**
 
-**Security**<br>
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge)
+<details>
+<summary>Elsewhere & support</summary>
+<br />
 
-**API & Performance Testing**<br>
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-%23D22128.svg?style=for-the-badge&logo=apachejmeter&logoColor=white) ![k6](https://img.shields.io/badge/k6-%237D64FF.svg?style=for-the-badge&logo=k6&logoColor=white)
+[Daily.dev](https://app.daily.dev/siraajul) · [WakaTime](https://wakatime.com/@e1175194-8cfe-478b-bb21-f1b614745b66) · [Buy me a coffee](https://www.buymeacoffee.com/sirajul) · [Ko-fi](https://ko-fi.com/sirajul)
 
-**Databases**<br>
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge)
+</details>
 
-**Version Control & CI/CD**<br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+---
 
-**Web, Mobile & Backend**<br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Shopify](https://img.shields.io/badge/shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117B85.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
-
-<!--
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
--->
-
-
-
-<!-- GRS (Light Mode) -->
-<div align="center">
-  <a href="https://github.com/siraajul#gh-light-mode-only">
-    <table cellspacing="0" cellpadding="0">
-      <tr>
-        <td style="border: 0;">
-            <img
-              src="https://github-readme-stats-steel-omega.vercel.app/api?username=siraajul&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only"
-              alt="My Github stats"
-              height="370"
-            />
-        </td>
-        <td style="border: 0;">
-            <img
-              src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=siraajul&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos#gh-light-mode-only"
-              alt="My Language stats"
-              width="280"
-            />
-        </td>
-      </tr>
-    </table>
-  </a>
-</div>
-
-<!-- GRS (Dark Mode) -->
-<div align="center">
-  <a href="https://github.com/siraajul#gh-dark-mode-only">
-    <table cellspacing="0" cellpadding="0">
-      <tr>
-        <td style="border: 0;">
-          <img
-            src="https://github-readme-stats-steel-omega.vercel.app/api?username=siraajul&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
-            alt="My Github stats"
-            height="370"
-          />
-        </td>
-        <td style="border: 0;">
-          <img
-            src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=siraajul&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos#gh-dark-mode-only"
-            alt="My Language stats"
-            width="280"
-          />
-        </td>
-      </tr>
-    </table>
-  </a>
-</div>
-
-<!-- Streak stats (Light mode) -->
-<div align="center">
-  <a href="https://github.com/siraajul#gh-light-mode-only">
-    <img
-       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=siraajul&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
-       alt="My GitHub streak stats"
-     />
-  </a>
-</div>
-
-
-<!-- Streak stats (Dark mode) -->
-<div align="center">
-  <a href="https://github.com/siraajul#gh-dark-mode-only">
-    <img
-       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=siraajul&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
-       alt="My GitHub streak stats"
-     />
-  </a>
-</div>
-
-<br>
-<h3 align="center">Support:</h3>
-<p align="center">
-<a href="https://www.buymeacoffee.com/sirajul"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sirajul" /></a>
-<a href="https://ko-fi.com/sirajul"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="itsirajul" /></a>
-</p>
+<p align="center"><sub>From Dhaka, Bangladesh · Building, testing, and learning in public.</sub></p>
